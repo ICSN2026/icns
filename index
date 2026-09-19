@@ -211,6 +211,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, .btn:focus-visible{
   margin-left:.4rem;
 }
 .nav-links a.nav-cta:hover{ background:var(--giallo-sc); }
+.nav-links a.nav-cta.nav-cta--rosso{ background:var(--rosso); color:#fff; }
+.nav-links a.nav-cta.nav-cta--rosso:hover{ background:var(--rosso-sc); }
 
 /* Hamburger (mobile) */
 .menu-toggle{
@@ -604,6 +606,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, .btn:focus-visible{
       <a href="#cosa-chiediamo">Cosa chiediamo</a>
       <a href="#perche">Perché aderire</a>
       <a href="#adesione" class="nav-cta">Diventa commissario</a>
+      <a href="https://icommissarisiamonoi.it/segnala" class="nav-cta nav-cta--rosso">Segnala ora</a>
     </nav>
   </div>
 </header>
