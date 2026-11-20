@@ -911,6 +911,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, .btn:focus-visible{
     <div class="footer-bottom">
       <span class="footer-badge">Iniziativa civica indipendente</span>
       <span>© <span id="year"></span> Comitato «Commissari Siamo Noi» — Torre Annunziata</span>
+      <span><a href="privacy.html">Privacy Policy</a></span>
     </div>
   </div>
 </footer>
